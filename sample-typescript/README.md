@@ -34,3 +34,11 @@
 [COMPILER] 10:48:52 - Found 0 errors. Watching for file changes.
 [NODEMON] 14 * 9 = 126
 ```
+```node 
+1:43:54 - File change detected. Starting incremental compilation...
+[COMPILER] 
+[COMPILER] 
+[COMPILER] 11:43:55 - Found 0 errors. Watching for file changes.
+[NODEMON] { A: 'A' }
+[NODEMON] { getA: 'sas' }
+[NODEMON] 14 * 19 = 266```
