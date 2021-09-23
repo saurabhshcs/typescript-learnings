@@ -6,4 +6,4 @@ a.x = 1;
 a.y = 2;
 const sum = (a, b) => a + b;
 sum.prop1 = 'Some Prop';
-// Extending interface
+let child = { x: 'Ram', y: 'Manohar' };
