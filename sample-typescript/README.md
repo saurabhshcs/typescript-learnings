@@ -1,10 +1,15 @@
 
+## What is nodemon?
+> nodemon is a tool that helps develop node. js based applications by automatically restarting the node application when file changes in the directory are detected. ... nodemon is a replacement wrapper for node . To use nodemon , replace the word node on the command line when executing your script.
+> 
 ### Install nodemon
 `npm i -D nodemon`
 ### Run with nodemon
 `npx nodemon dist/index.js`
 ### Run with nodemon with watch & quiet mode
 `npx nodemon -w dist -q dist/index.js`
+## What is concurrently?
+> Concurrently is an npm package that allows you to run multiple commands concurrently. A very well named package this one.
 ### Install concurrently
 `npm i -D concurrently`
 ### Run with concurrently
